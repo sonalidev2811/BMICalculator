@@ -15,7 +15,7 @@ const BmiCalculator = () => {
             <input
               value={values.weight}
               onChange={onChange}
-              name="weight"
+              name=" your weight"
               type="text"
               className="bmi-input"
               placeholder="Weight in Kg"
